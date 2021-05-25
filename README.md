@@ -1,4 +1,4 @@
-# appcargoestagiarios
+# AppCargo - Projeto Flutter Estagiários
 
 A new Flutter project.
 
